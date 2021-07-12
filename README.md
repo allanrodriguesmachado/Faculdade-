@@ -1,2 +1,5 @@
-# ProjetoFaculdade
+# Project MVC
 
+- Model
+- View
+- Controller
